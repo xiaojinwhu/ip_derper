@@ -12,7 +12,7 @@ x509_extensions = v3_req
 prompt = no
 
 [req_distinguished_name]
-countryName = China
+countryName = zh
 stateOrProvinceName = shanghai
 localityName = shanghai
 organizationName = Self-signed certificate
