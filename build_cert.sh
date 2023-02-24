@@ -12,9 +12,9 @@ x509_extensions = v3_req
 prompt = no
 
 [req_distinguished_name]
-countryName = XX
-stateOrProvinceName = N/A
-localityName = N/A
+countryName = China
+stateOrProvinceName = shanghai
+localityName = shanghai
 organizationName = Self-signed certificate
 commonName = $CERT_HOST: Self-signed certificate
 
